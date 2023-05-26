@@ -1,1 +1,1 @@
-# 3Dsolids_Fourier_LegendrePols
+# 3DSolids_Fourier_LegendrePol
