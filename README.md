@@ -27,6 +27,14 @@ The files in the SARS_Cell folder are the ones needed to run the code that gener
 pained 3D, our proposal in Python 2DLegendre_Fit. Thus, having another platform capable of visualizing
 Importable 3D solids, it is possible to see our result and not only as we propose it in the
 manuscript with the function "volumeViewer" of Matlab.
+Finally, in the main folder "Frames" there are the last two folders "562 Hon Wu" and "660 Ullah"
+contain the 562 fit files for Ho (660 in the case of Ullah) obtained with 2DLegendre_Fit. In this case
+it only remains the case of graphing it. For this reason, the importance of attaching this data, since otherwise
+it does not apply. The program because it is very specific to the cases, that is to say, that only the code 
+"Results.m" is exclusive for this investigation in the case of the tomographic studies in Visualization 1 and 
+Visualization 2. While the "FourierM.m" and "2DLegendre_Fit" codes are general and applicable to multiple cases, 
+we only have to consider the illumination in the tomographic image, since it should not have sweeps or shadows 
+due to the inclination of the illumination.
 
 
 Instrucciones en español
@@ -59,5 +67,12 @@ Los archivos en la carpeta SARS_Cell son los necesarios para correr el codigo qu
 dolido 3D, nuestra propuesta en Python 2DLegendre_Fit. Asi, al contar con otra plataforma capaz de visualizar 
 Solidos 3D importables, se tiene la posibilidad de obcervar nuestro resutado y no solo como lo proponemos en el 
 manuscrito con la funcion "volumeViewer" de Matlab.
+Finalmente, en la carpeta principal "Frames" se encuantran las ultimas dos carpetas "562 Hon Wu" y "660 Ullah" 
+contienen los 562 archivos de ajuste para Ho (660 en el caso de Ullah) obtenidos con 2DLegendre_Fit. En este caso
+solo resta el caso de graficarlo. Por ello la importancia de anexar estos datos ya que de lo contrario no corre 
+el programa porque es muy especifico de los casos, es decir, que solo el codigo "Results.m" es exclusivo para 
+esta invetsigacion en el caso de los estudios tomograficos en Visualization 1 y Visualization 2. Mientras que los 
+codigos "FourierM.m" y "2DLegendre_Fit" son generales y aplicables s multiples casos, solo debemos considerar la
+iluminacion en la imagen tomografica, ya que no debe tener barridos ni sombras por inclinacion de la iluminacion. 
 
 
