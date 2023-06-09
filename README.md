@@ -43,7 +43,7 @@ Desafortunadamente la presente plataforma (https://github.com/) no permite subi 
 mayores a 25mb, lo mismo que Optica en su plataforma y asi mismo los Journals de esta como Applied Opics. Por
 ello los demas archivos mencionados en el manuscrito titulado "Tomography Fourier analysis for the construction 
 of a 3D solid model for SARS-CoV-2 viral particles" como "HoWu_3Dmodel.mat" y "Ullah_3Dmodel.mat" se montaron 
-en otra plataforma con la finalidad de estar al acceso de los lectores. Donde dicha plataforma solo depende de 
+en otra plataforma con la finalidad de tener el acceso de los lectores. Donde dicha plataforma solo depende de 
 nuestra gestion, en google drive pero de gran capacidad. 
 
 Ofrecemos una disculpa por tener que re-direccionar pero por cuestiones de economicas no cubrimos los costos de
