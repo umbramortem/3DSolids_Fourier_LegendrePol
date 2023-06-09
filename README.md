@@ -1,5 +1,7 @@
 # 3DSolids_Fourier_LegendrePol
 
+English Instructions
+
 Unfortunately, this platform (https://github.com/) does not allow uploading very large or heavy files larger 
 than 25mb, the same as Optica on its platform and likewise its Journals as Applied Opics. Therefore, the other 
 files mentioned in the manuscript entitled "Tomography Fourier analysis for the construction of a 3D solid 
