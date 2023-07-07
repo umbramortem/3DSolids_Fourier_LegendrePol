@@ -3,11 +3,16 @@
 English Instructions
 
 Unfortunately, this platform (https://github.com/) does not allow uploading very large or heavy files larger 
-than 25mb, the same as Optica on its platform and likewise its Journals as Applied Opics. Therefore, the other 
-files mentioned in the manuscript entitled "Tomography Fourier analysis for the construction of a 3D solid 
-model for SARS-CoV-2 viral particles" such as "HoWu_3Dmodel.mat" and "Ullah_3Dmodel.mat" were mounted on 
-another platform with the purpose of being accessible to readers. Where said platform only depends on our 
-management, in google drive but with great capacity.
+than 25mb, the same as Optica on its platform and likewise its Journals as Journal of the Optical Society of
+America A (JOSA A) by OPTICA. Therefore, the other files mentioned in the manuscript entitled "3D solid of SARS-CoV-2 
+viral particles applying Legendre polynomials from Tomography Fourier analysis" such as "HoWu_3Dmodel.mat" 
+and "Ullah_3Dmodel.mat" were mounted on another platform with the purpose of being accessible to readers. 
+Where said platform only depends on our management, in google drive but with great capacity.
+
+
+Journal of the Optical Society of America A (JOSA A)
+
+
 
 We apologize for having to redirect but for economic reasons we do not cover the costs of GitHub to be
 able to upload files of 1Gb in size. Next we leave the following links of the files mentioned:
