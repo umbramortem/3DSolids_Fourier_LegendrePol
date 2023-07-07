@@ -8,6 +8,7 @@ clear all; close all;
 %    submitted to Journal of the Optical Society of America A (JOSA A) by 
 %    OPTICA (former OSA-Optical Society of America).
 %
+5
 %    Recalling that the ROI are built from 3D tomographic image data
 %    from the research work "Live imaging of SARS-CoV-2 infection in mice
 %    reveals that neutralizing antibodies require Fc function for optimal
@@ -16,6 +17,7 @@ clear all; close all;
 %    the application to ultrastructural analysis of SARS-CoV-2 particles"
 %    with DOI: 10.1007/s00795-021-00309-2
 %    
+5
 %    From such work, we selected several frames (video image captures from
 %    the tomographic image) and for each frame we obtained the phase of the
 %    observed SARS-CoV-2 cells, segmented by simulating the Takeda Method
