@@ -3,11 +3,10 @@
 clear all; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Tomography Fourier analysis for the
-%    construction of a 3D model for SARS-CoV-2 viral particles Phase
-%    analysis simulating the Takeda method to obtain a 3D profile of
-%    SARS-CoV-2 viral particles", submitted to Applied Optics by OPTICA
-%    (former OSA-Optical Society of America).
+%    the manuscript entitled  "3D solid of SARS-CoV-2 viral particles 
+%    applying Legendre polynomials from Tomography Fourier analysis", 
+%    submitted to Journal of the Optical Society of America A (JOSA A) by 
+%    OPTICA (former OSA-Optical Society of America).
 %
 %    Recalling that the ROI are built from 3D tomographic image data
 %    from the research work "Live imaging of SARS-CoV-2 infection in mice
