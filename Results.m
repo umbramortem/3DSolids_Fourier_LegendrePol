@@ -27,11 +27,13 @@ clear all; close all;
 %    virion particle.
 %
 %    Correspondings Authors:
-%    Dr. Jesus Alonso Arriaga Hernandez
-%    jesus.arriagahdz@correo.buap.mx;    dr.j.a.arriaga.hernandez@gmail.com
+%
 %    Dra. Bolivia Teresa Cuevas Otahola
 %    bolivia.cuevasotahola@viep.com.mx;          b.cuevas.otahola@gmail.com
 %
+%    Dr. Jesus Alonso Arriaga Hernandez
+%    jesus.arriagahdz@correo.buap.mx;    dr.j.a.arriaga.hernandez@gmail.com
+%    
 %    This algorithm contains a simple routine to call the main files 
 %    required to obtain the results as well as to apply our main function
 %    "FourierM.m".
