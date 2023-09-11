@@ -59,7 +59,6 @@ mencionados:
 
 3.- Frames             link: https://drive.google.com/drive/folders/1OBWOUDH1ZaPz0YLEjntfqrOWLzhNx01o?usp=sharing
 
-
 El ultimo enlace (carpeta "Frames") continee multiples imagenes y archivos de matlab (*.mat) para generar otros 
 elementos y ejecutar sin problemas el codigo de "Results.m". Asi en "Frames" tenemos 4 carpetas, 2 para los 
 archivos de Ho y 2 para Ullah. En las subcarpetas 40 Ho y 44 Ullah tenemos los frames (directos del video 1 y 2, 
