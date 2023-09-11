@@ -6,13 +6,14 @@ function [Fou] = FourierM(Image, Mask)
 %    the manuscript entitled  "3D solid of SARS-CoV-2 viral particles 
 %    applying Legendre polynomials from Tomography Fourier analysis", 
 %    submitted to Journal of the Optical Society of America A (JOSA A) by
-%    OOPTICA.
+%    OPTICA.
 %
 %    Correspondings Authors:
-%    Dr. Jesus Alonso Arriaga Hernandez
-%    jesus.arriagahdz@correo.buap.mx;    dr.j.a.arriaga.hernandez@gmail.com
 %    Dr. Bolivia Teresa Cuevas Otahola
 %    bolivia.cuevasotahola@viep.com.mx;          b.cuevas.otahola@gmail.com
+%
+%    Dr. Jesus Alonso Arriaga Hernandez
+%    jesus.arriagahdz@correo.buap.mx;    dr.j.a.arriaga.hernandez@gmail.com
 %
 %    This function contains three input data of square matrices of the form
 %    MxM, which should be images transformed into Gray Tones (GT) of double
